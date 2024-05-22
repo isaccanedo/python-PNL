@@ -1,4 +1,4 @@
-# Python-e-PLN
+# Python PLN
 
 Métodos de Agrupamento em PLN usando Python
 
